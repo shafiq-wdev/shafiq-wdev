@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.jpeg" width="100%" alt="Don's profile photo">
+<img src="./banner.png" width="100%" alt="Don's profile photo">
 
 <br>
 
@@ -79,17 +79,6 @@ My goal is to keep learning, build useful applications, and grow into a professi
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
 
 ## 🎯 My Current Goals
 
