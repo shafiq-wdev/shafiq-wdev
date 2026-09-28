@@ -29,6 +29,17 @@ I enjoy learning modern web technologies and building practical projects. My cur
 - 🌍 Interested in remote opportunities and real-world projects
 
 ---
+🧠 What I'm Learning
+
+<div align="center">
+
+      🌐 Web	            ⚛️ Frontend	          🚀 Modern Development
+      HTML	               React          	        Next.js
+      CSS	               JavaScript	            Tailwind CSS
+    Responsive Design	      Components	        Full-Stack Concepts
+    UI Development        API Integration        Full-Stack Concepts
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -48,9 +59,6 @@ I enjoy learning modern web technologies and building practical projects. My cur
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
 ## 📌 What I'm Working On
 
 ```text
@@ -67,6 +75,16 @@ My goal is to keep learning, build useful applications, and grow into a professi
 ---
 
 ## 📂 Featured Projects
+
+⚡ B-14 Assignment 5
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+<a href="https://github.com/shafiq-wdev/B-14-Assignment-5"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+</div>
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -90,6 +108,35 @@ My goal is to keep learning, build useful applications, and grow into a professi
 - Prepare for remote web development opportunities
 
 ---
+💻 My Coding Philosophy
+
+<div align="center">
+
+🧠 Learn
+
+Learn the fundamentals.
+
+🔨 Build
+
+Turn knowledge into real projects.
+
+🐛 Debug
+
+Understand problems instead of avoiding them.
+
+📈 Improve
+
+Keep making every project better.
+
+🚀 Repeat
+
+Keep learning and building.
+
+<br>
+
+Learn → Build → Fail → Fix → Improve → Repeat 🔁
+
+</div>
 
 ## 🤝 Let's Connect
 
